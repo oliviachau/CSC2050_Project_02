@@ -1,5 +1,0 @@
-first line
-consecutive    spaces
-	tab
-
-blank line
